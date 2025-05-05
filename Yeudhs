@@ -54,7 +54,7 @@ local redzlib = {
 			}),
 			["Color Hub 2"] = Color3.fromRGB(219, 252, 3),
 			["Color Stroke"] = Color3.fromRGB(40, 40, 40),
-			["Color Theme"] = Color3.fromRGB(150, 0, 255),
+			["Color Theme"] = Color3.fromRGB(237, 84, 24),
 			["Color Text"] = Color3.fromRGB(240, 240, 240),
 			["Color Dark Text"] = Color3.fromRGB(180, 180, 180)
 		} 
@@ -65,7 +65,7 @@ local redzlib = {
 	Save = {
 		UISize = {550, 380},
 		TabSize = 160,
-		Theme = "Darker"
+		Theme = "Yellow"
 	},
 	Settings = {},
 	Connection = {},
